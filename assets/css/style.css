@@ -94,7 +94,7 @@ main {
 
 /*Footer*/
 footer {
-    background-color: orange;
+   display: flex;
 }
 
 /*Media Query for tablets and larger (786px and up)*/
